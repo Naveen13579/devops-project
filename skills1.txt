@@ -6,3 +6,4 @@ django
 rest api
 python 
 css
+html
