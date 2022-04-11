@@ -7,4 +7,3 @@ css
 bootstrap
 php
 golang
-naveen
