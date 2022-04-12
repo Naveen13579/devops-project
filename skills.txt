@@ -1,9 +1,0 @@
-jenkins
-git
-python 
-devops
-html
-css
-bootstrap
-php
-golang
