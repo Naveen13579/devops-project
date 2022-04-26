@@ -1,7 +1,3 @@
 postman
 css
-Hemanth has made some changes in code
-Hemanth made some changes in 4th line
-naveen added jenkins
-hemanth
-multiply
+addition
