@@ -3,5 +3,3 @@ html
 css
 bootstrap
 AI
-data science
-golang
