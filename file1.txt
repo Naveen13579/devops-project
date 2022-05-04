@@ -1,6 +1,3 @@
 python 
 html
-css
-bootstrap
-AI
-data science
+
