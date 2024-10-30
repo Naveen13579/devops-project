@@ -3,6 +3,3 @@ html
 datascience
 css
 hdgdjch
-ncch
-naveen
-anirudh
